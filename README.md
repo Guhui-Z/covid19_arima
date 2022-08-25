@@ -1,5 +1,6 @@
 # Time-series Analysis of U.S. Covid-19 Cases
 
+View the project in Google Colab: <a href="https://colab.research.google.com/drive/1E2Lz3_qXQ-hZtOhTanmQ21rzaSBAEfPx?usp=sharing" target="_blank">Covid 19 analysis and prediction</a>
 ## Project Objective
 This project aims to visualize and analyze U.S. COVID-19 data in the time frame from 2020-01-21 to 2022-08-02, as well as predict the number of cases in the following 5 days.
 
